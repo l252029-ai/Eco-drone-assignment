@@ -48,9 +48,7 @@ EcoDrone is a fictional environmental monitoring drone initiative. This mini-sit
 - Add animations or transitions for smoother UI effects.
 - Optimize for SEO and deeper accessibility testing.
 
-## Screenshots
 
-*(Add screenshots demonstrating the site on mobile, tablet, and desktop views as well as interactive features.)*
 
 ## Credits
 
